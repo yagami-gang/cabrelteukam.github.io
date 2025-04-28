@@ -48,13 +48,13 @@ et j’aime relever des défis techniques tout en apprenant continuellement.
 - **Technos** : Laravel, Bootstrap, JS
 - **Fonctionnalités** : Suivi des commandes, gestion clients, facturation automatique
 
-### 🧼 Application de gestion de laverie
+### 🧼 Application de gestion déchet
 - **Technos** : Laravel, Tailwind CSS, jQuery
-- **Fonctionnalités** : Planning, paiement, historique des clients
+- **Fonctionnalités** : Planning de ramassage, historique de collecte, suivie des opération 
 
 ### ✈️ Application de réservation de billets de vol
 - **Technos** : Laravel, Tailwind CSS, jQuery
-- **Fonctionnalités** : Recherche de vols, réservation en ligne, génération de billets PDF
+- **Fonctionnalités** : Recherche de vols, réservation en ligne, revente des billets par un client
 
 ---
 
