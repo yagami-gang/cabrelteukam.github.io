@@ -22,10 +22,17 @@ et j’aime relever des défis techniques tout en apprenant continuellement.
 ---
 
 ### 🌐 Site web pour Honowa technologies – [honowa.com](https://honowa.com)
-- **Technos** : Laravel, Tailwind CSS, JavaScript
+- **Technos** : Laravel, HTML/Bootstrap, JavaScript
 - **Rôle** : Développement frontend/backend
-- **Fonctionnalités** : Catalogue de produits, panier, espace client, notifications
+- **Fonctionnalités** : Presentation de l'entreprise, présentation des  services, présentation des formations.
 
+---
+
+### 🛍️ Plateforme de vente – [adhimi.com](https://adhimi.com/)
+- **Technos** : Wordpress
+- **Rôle** : Développement backend
+- **Fonctionnalités** : Catalogue de produits, panier, espace client, notifications
+- 
 ---
 
 ### 🌍 Maintenance d’une application PHP à distance
