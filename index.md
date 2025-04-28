@@ -21,7 +21,7 @@ et j’aime relever des défis techniques tout en apprenant continuellement.
 
 ---
 
-### 🛍️ Plateforme de vente – [honowa.com](https://honowa.com)
+### 🌐 Site web pour Honowa technologies – [honowa.com](https://honowa.com)
 - **Technos** : Laravel, Tailwind CSS, JavaScript
 - **Rôle** : Développement frontend/backend
 - **Fonctionnalités** : Catalogue de produits, panier, espace client, notifications
